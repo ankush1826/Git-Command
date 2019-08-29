@@ -1,0 +1,50 @@
+git hub
+
+
+ email - er.ankushyadav@gmail.com
+ p - 
+ user - ankush
+ 
+ 
+ open folder in url delete url 
+ 
+ write cmd
+ 
+ // check git instakl or not 
+ 
+ command type - git enter
+ 
+ git status enter
+ 
+//add file
+
+git add "page-frontpage.php"  // filename in " "
+
+
+// file purpose which part change in to code
+git commit -m "chnages part"
+
+
+//url create
+git remote add origin https://github.com/ankush1826/testing.git
+
+
+//file upload
+
+git push -u origin master
+
+
+// update file
+git add filename
+
+//comment what part update
+
+git commit -m "file_A something"
+
+//push file
+
+git push origin master
+
+//check status
+
+git status
